@@ -39,7 +39,6 @@ Google Gemeni
 
 
 
-Google Gemeni,
 
 
 
