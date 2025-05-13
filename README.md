@@ -5,7 +5,10 @@ Built with Next.js for the user interface and backend logic, Firebase for authen
 
 # TechStack
 <ul>
-Next.js,
+  <li>
+Next.js    
+  </li>
+
 Firebase,
 Tailwind CSS,
 Vapi AI,
