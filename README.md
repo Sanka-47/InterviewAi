@@ -24,12 +24,23 @@ shadcn/ui,
 Google Gemeni  
   </li>
 
+     <li>
+Zod
+  </li>
+
+
+   <li>
+Google Gemeni  
+  </li>
+
+  
+
 
 
 
 
 Google Gemeni,
-Zod
+
 
 
   
