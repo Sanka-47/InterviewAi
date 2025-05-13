@@ -24,7 +24,7 @@ shadcn/ui,
 Google Gemeni  
   </li>
 
-     <li>
+  <li>
 Zod
   </li>
 
