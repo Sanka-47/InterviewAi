@@ -8,11 +8,26 @@ Built with Next.js for the user interface and backend logic, Firebase for authen
   <li>
 Next.js    
   </li>
+   <li>
+Firebase  
+  </li>
+   <li>
+Tailwind CSS  
+  </li>
+   <li>
+Vapi AI   
+  </li>
+   <li>
+shadcn/ui,   
+  </li>
+   <li>
+Google Gemeni  
+  </li>
 
-Firebase,
-Tailwind CSS,
-Vapi AI,
-shadcn/ui,
+
+
+
+
 Google Gemeni,
 Zod
 
